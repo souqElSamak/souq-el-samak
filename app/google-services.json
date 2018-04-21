@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "708840579564",
+    "firebase_url": "https://souq-el-samak.firebaseio.com",
+    "project_id": "souq-el-samak",
+    "storage_bucket": "souq-el-samak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708840579564:android:bbba91843e2315e3",
+        "android_client_info": {
+          "package_name": "com.example.kiro.demotab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708840579564-utnt4t2tp4silhghm66ct0a4hdp3oqqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kiro.demotab",
+            "certificate_hash": "e35e0ded57a5495f430c8a489132c831167c165a"
+          }
+        },
+        {
+          "client_id": "708840579564-ga06cfenbltgr94v2cjula4lshsda70t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrA7D40jBIxfSToQtuGYpE0V6XVGwexZk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708840579564-ga06cfenbltgr94v2cjula4lshsda70t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
